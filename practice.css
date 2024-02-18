@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+.ul-container{
+    display: flex;
+    justify-content: center;
+}
+
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}

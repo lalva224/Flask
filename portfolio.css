@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: #ACC8E5;
+}
+/* #about-container{
+   width: 50%;
+   margin: auto;
+} */
+p{
+    width: 50%;
+    margin:auto;
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
